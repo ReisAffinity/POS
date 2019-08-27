@@ -1,1 +1,2 @@
 # POS
+# Point of Sales (POS) is an inventory program system, where the user is allow to record the sales of each individual item. The current POS right now is a register. The register program allows the user to enter the amount of items they want to buy in the selection options. The user can do checkout these items and the amount of money to pay. Just think of a register in real life. The program is a javafx application. 
